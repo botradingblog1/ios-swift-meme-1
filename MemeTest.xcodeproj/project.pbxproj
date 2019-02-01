@@ -19,6 +19,7 @@
 		84B9A1781F878760000FA753 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84B9A1761F878760000FA753 /* LaunchScreen.storyboard */; };
 		84B9A1801F88E053000FA753 /* Meme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B9A17F1F88E053000FA753 /* Meme.swift */; };
 		84B9A1831F8E2B17000FA753 /* impact.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84B9A1821F8E2B17000FA753 /* impact.ttf */; };
+		B5865E4222050A9A00BB9716 /* screenshots in Resources */ = {isa = PBXBuildFile; fileRef = B5865E4122050A9A00BB9716 /* screenshots */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		84B9A1791F878760000FA753 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84B9A17F1F88E053000FA753 /* Meme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meme.swift; sourceTree = "<group>"; };
 		84B9A1821F8E2B17000FA753 /* impact.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = impact.ttf; sourceTree = "<group>"; };
+		B5865E4122050A9A00BB9716 /* screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = screenshots; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 		84B9A1611F87875F000FA753 = {
 			isa = PBXGroup;
 			children = (
+				B5865E4122050A9A00BB9716 /* screenshots */,
 				84B9A16C1F87875F000FA753 /* MemeTest */,
 				84B9A16B1F87875F000FA753 /* Products */,
 			);
@@ -180,6 +183,7 @@
 				84B9A1831F8E2B17000FA753 /* impact.ttf in Resources */,
 				84B9A1781F878760000FA753 /* LaunchScreen.storyboard in Resources */,
 				84B9A1751F878760000FA753 /* Assets.xcassets in Resources */,
+				B5865E4222050A9A00BB9716 /* screenshots in Resources */,
 				848C70311F982A9600BFB4B4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

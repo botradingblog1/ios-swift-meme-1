@@ -6,7 +6,7 @@ Once you are done, the memes can be shared via the normal social media share opt
 
 ## Implementation
 * We are using two View Controllers - one for a UITableView and one for a UICollectionView to display the data.
-* The Memes are stored in the Meme model
+* The Memes are stored in the Meme model.
 * The MemeEditorViewController is used to build the Meme. It uses the standard UIImagePickerController to get an image from either the camera or the photoLibrary.
 * For the share action we are using a standard UIActivityViewController and passing the image to share.
 * As temporary data storage, we are just using a Meme array in the AppDelegate. In the future, the app could be extended to use persistent data storage.
