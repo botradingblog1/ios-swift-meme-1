@@ -20,8 +20,8 @@ Once you are done, the memes can be shared via the normal social media share opt
 6. The new Meme is saved and can be displayed either in a list view or a colleciton view.
 
 ## Screenshots
-![Meme 1](screenshots/meme-ss-1.png?raw=true "Meme 1")
+![Meme 1](screenshots/meme-ss-1.png?raw=true "Meme 1" | width=200)
 
-![Meme 2](screenshots/meme-ss-2.png?raw=true "Meme 1")
+![Meme 2](screenshots/meme-ss-2.png?raw=true "Meme 1" | width=200)
 
-![Meme 3](screenshots/meme-ss-3.png?raw=true "Meme 1")
+![Meme 3](screenshots/meme-ss-3.png?raw=true "Meme 1" | width=200)
